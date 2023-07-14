@@ -5,10 +5,10 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on multiple projects as you can see from my github contributions
-- 🌱 I’m currently learning Machine Learning in Python, Advance C++ and Python-Flask
-- 👯 I’m looking to collaborate on any projects realted to programming
-- 💬 Ask me anything and would try to answer at my best knowledge
+- 🔭 I’m currently working on a web-app that allows user "To listen and talk to AI to seek help in difficult situations such as anxiety or stress"
+- 🌱 I’m currently learning Machine Learning
+- 👯 I’m looking to collaborate on any projects related to programming
+- 💬 Ask me anything and would try to answer to my best knowledge
 - 📫 How to reach me: akshpatelofficial@gmail.com
 - ⚡ Fun fact: I love playing PC games
 
