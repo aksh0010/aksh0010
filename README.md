@@ -1,3 +1,4 @@
+![logo](https://github.com/aksh0010/aksh0010/blob/main/github_banner.png)
 <h1 align="center">Hi 👋, I'm Aksh Patel</h1>
 <h3 align="center">I am a Software Developer from Ontario, Canada</h3>
 
