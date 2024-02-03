@@ -8,9 +8,9 @@
 
 <p align="left"> <a href="https://twitter.com/akshpatel0010" target="blank"><img src="https://img.shields.io/twitter/follow/akshpatel0010?logo=twitter&style=for-the-badge" alt="akshpatel0010" /></a> </p>
 
-- 🔭 I’m currently working on **a web-app that allows user "To listen and talk to AI to seek help in difficult situations such as anxiety or stress"**
+- 🔭 I’m currently working on **Hadoop Ecosystem**
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **Data Engineering**
 
 - 👯 I’m looking to collaborate on **Software based project**
 
