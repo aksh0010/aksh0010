@@ -16,6 +16,8 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/aksh0010](https://github.com/aksh0010)
 
+- 💻 Connect  [https://www.linkedin.com/in/aksh-patel-3ba5751a8](https://www.linkedin.com/in/aksh-patel-3ba5751a8)
+
 - 💬 Ask me about **anything and would try to answer at my best knowledge**
 
 - 📫 How to reach me **akshpatelofficial@gmail.com**
